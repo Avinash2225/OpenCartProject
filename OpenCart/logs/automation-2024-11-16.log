@@ -1,0 +1,47 @@
+00:52:08.881[TestNG-tests-1] INFO  testCases.Tc003_LoginDDT - **************** finished TC_003_Login ****************
+00:52:08.905[TestNG-tests-1] INFO  testCases.Tc003_LoginDDT - *****************  Starting TC_003_Login ****************
+00:52:10.585[TestNG-tests-1] INFO  testCases.Tc003_LoginDDT - *****************  Starting TC_003_Login ****************
+00:53:51.990[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avina\OneDrive\Desktop\Github_for_Java\Java_codes\Day7\master.xml
+
+00:53:56.63[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Starting Test Case TC001_AccountRegistractionTest**********
+00:53:56.191[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on my Account link**********
+00:53:56.767[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on Registar link**********
+00:53:56.770[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Providing customer details**********
+00:53:58.385[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ******Validating expected message**********
+00:54:08.466[TestNG-tests-1] ERROR testCases.TC001_AccountRegistractionTest - test failed....
+01:03:19.106[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avina\OneDrive\Desktop\Github_for_Java\Java_codes\Day7\master.xml
+
+01:03:23.95[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Starting Test Case TC001_AccountRegistractionTest**********
+01:03:23.188[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on my Account link**********
+01:03:23.757[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on Registar link**********
+01:03:23.758[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Providing customer details**********
+01:03:25.234[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ******Validating expected message**********
+01:03:32.300[TestNG-tests-1] ERROR testCases.TC001_AccountRegistractionTest - test failed....
+00:30:40.504[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Starting Test Case TC001_AccountRegistractionTest**********
+00:30:40.902[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on my Account link**********
+00:30:41.510[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on Registar link**********
+00:30:41.512[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Providing customer details**********
+00:30:43.398[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ******Validating expected message**********
+00:30:53.427[TestNG-tests-1] ERROR testCases.TC001_AccountRegistractionTest - test failed....
+00:49:07.208[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Starting Test Case TC001_AccountRegistractionTest**********
+00:49:07.462[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on my Account link**********
+00:49:08.297[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on Registar link**********
+00:49:08.307[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Providing customer details**********
+00:49:10.263[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ******Validating expected message**********
+00:49:20.339[TestNG-tests-1] ERROR testCases.TC001_AccountRegistractionTest - test failed....
+21:58:29.209[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Starting Test Case TC001_AccountRegistractionTest**********
+21:58:29.324[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on my Account link**********
+21:58:29.882[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on Registar link**********
+21:58:29.884[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Providing customer details**********
+21:58:31.247[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ******Validating expected message**********
+21:58:41.333[TestNG-tests-1] ERROR testCases.TC001_AccountRegistractionTest - test failed....
+14:18:27.697[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avina\OneDrive\Desktop\Github_for_Java\Java_codes\Day7\master.xml
+
+14:18:42.343[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Starting Test Case TC001_AccountRegistractionTest**********
+14:18:42.521[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on my Account link**********
+14:18:43.787[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Clicked on Registar link**********
+14:18:43.795[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ****** Providing customer details**********
+14:18:46.166[TestNG-tests-1] INFO  testCases.TC001_AccountRegistractionTest - ******Validating expected message**********
